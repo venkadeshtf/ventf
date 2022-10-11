@@ -21,3 +21,7 @@ variable "rg_name67" {
 variable "rg_name99" {
   default = "RG-VENKATTERFF01"
 }
+
+variable "storageacname12102022" {
+  default = "uatopsstorageabcdefgh"
+}
