@@ -6,6 +6,10 @@ variable "rgmurali" {
   default = "RG-MURALI-2555"
 }
 
+variable "rgvenkat" {
+  default = "RG-venkat11"
+}
+
 variable "rgdeepaklocation" {
   default = "West Europe"
 }
