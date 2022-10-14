@@ -37,7 +37,7 @@ resource "azurerm_storage_account" "zanm" {
   }
 }
 
-resource "azurerm_storage_account" "bub" {
+resource "azurerm_storage_account" "bmssms" {
   name                     = var.sung888
   resource_group_name      = azurerm_resource_group.xxv.name
   location                 = azurerm_resource_group.xxv.location
