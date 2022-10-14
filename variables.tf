@@ -23,7 +23,7 @@ variable "rgvenkatlocation" {
 }
 
 variable "eeffgg" {
-  default = "trich"
+  default = "stagesh"
 }
 
 variable "aabbcc" {
