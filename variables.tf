@@ -7,7 +7,7 @@ variable "rgmurali" {
 }
 
 variable "rgvenkat" {
-  default = "RG-venkat11"
+  default = "RG-venkat-11"
 }
 
 variable "rgdeepaklocation" {
