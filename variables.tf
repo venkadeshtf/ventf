@@ -27,9 +27,9 @@ variable "eeffgg" {
 }
 
 variable "aabbcc" {
-  default = "pall"
+  default = "adap"
 }
 
 variable "qqwwee" {
-  default = "chrom"
+  default = "sales"
 }
