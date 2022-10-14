@@ -25,7 +25,7 @@ resource "azurerm_storage_account" "rg-dks111" {
   }
 } 
 
-resource "azurerm_storage_account" "rg-mks222" {
+resource "azurerm_storage_account" "rg-mk222" {
   name                     = var.aabbcc
   resource_group_name      = azurerm_resource_group.rg-murali.name
   location                 = azurerm_resource_group.rg-murali.location
@@ -37,7 +37,7 @@ resource "azurerm_storage_account" "rg-mks222" {
   }
 }
 
-resource "azurerm_storage_account" "rg-vps333" {
+resource "azurerm_storage_account" "rg-vp333" {
   name                     = var.qqwwee
   resource_group_name      = azurerm_resource_group.rg-venkat.name
   location                 = azurerm_resource_group.rg-venkat.location
