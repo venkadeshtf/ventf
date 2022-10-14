@@ -13,7 +13,7 @@ resource "azurerm_resource_group" "rg-venkat" {
   location = var.rgvenkatlocation
 }
 
-resource "azurerm_storage_account" "rg-dks111" {
+resource "azurerm_storage_account" "rg-dk111" {
   name                     = var.eeffgg
   resource_group_name      = azurerm_resource_group.rg-deepak.name
   location                 = azurerm_resource_group.rg-deepak.location
